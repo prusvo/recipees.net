@@ -1,0 +1,277 @@
+[
+    {
+        "id": 1,
+        "dishName": "Winigret Kimchi",
+        "menuNamber": 4,
+        "ingridients": ["750g sok z kimchi, ", "300 sos sojowy, ", "210 cukier brazowy, ", "210 imbir, ", "60 czosnek, ", "15 chilli, ", "50 olej rzepak"],
+        "metod": "wszystko blend, zostawic na min na 6h, przecedzic przez sito"
+    },
+    {
+        "id": 2,
+        "dishName": "Majonez cebulowy",
+        "menuNamber": 4,
+        "ingridients": "900 olej z cebuli, 120 zoltko, 50 musztarda Dijon, 10 ocet winny bialy, pieprz, sol, paasta truflowa",
+        "metod": "emulgowac w Termomixie, dac na koniec paste trufla"
+    },
+    {
+        "id": 3,
+        "dishName": "Baza Tatar ",
+        "menuNamber": 4,
+        "ingridients": "1200 szalotka, 375 kapary, 600 olej, 300 olej rzepak, pieprz",
+        "metod": "konfitowac w piecu: 160st przez 20min + 140st przez 40min"
+    },
+    {
+        "id": 4,
+        "dishName": "Ketchup Kimchi ",
+        "menuNamber": 4,
+        "ingridients": "1500 cebula, 100 czosnek,600 cukier brązowy (karmel), 600 ocet jabłkowy (redukcja do 50g, 600 jabłko, 2500 kimchi, 700 sok jabłkowy, 2000 woda, 300 sok z kimchi,1000 passata pomidorowa" ,
+        "metod": "gotować do momentu rozgotowania wszystkich składników i konsystencji gęstego ketchupu. Blend + przetrzeć przez sito"
+    },
+    {
+        "id": 5,
+        "dishName": "Tatar (karta #4) ",
+        "menuNamber": 4,
+        "ingridients": "90g rostbef wół, 10g baza (szalotka+kapary confit), 5g piklowana gorczyca, 3g szczypiorek, 2tbsp olej rzepak, 15g majonez cebulowy, 4 połówki pomidor poruszany, 5 cebulek perłowych, panko, skwarki" 
+    },
+    {
+        "id": 6,
+        "dishName": "Sos z palonego ziemniaka ",
+        "menuNamber": 4,
+        "ingridients": "Ziemniak 5kg (170 stopni 1,15h ), masło 200, mleko 3000, śmietanka 34% 1000, sól, wędzonka 2Sp" 
+    },
+    {
+        "id": 7,
+        "dishName": "Blin ziemniaczany ",
+        "menuNamber": 4,
+        "ingridients": "Puree 700, skrobia ziemniaczana 60, mąka przenna 30, masło 100, cukier 2, jajka 7, dijon 45, sól 7 " ,
+        "metod": "Wymieszać wszystko w misce, rozlać w GN 1/2 40mm, przykryć folją, wypikać na parowaniu 60min 90stopmi"
+    },
+    {
+        "id": 8,
+        "dishName": "Cannelloni - Ruskie ",
+        "menuNamber": 4,
+        "ingridients": "1200 ziemniak, 1000 twaróg, 500 cebula, 200 dziugas, 2szt jajo, sól, pieprz " 
+
+    },
+    {
+        "id": 9,
+        "dishName": "Farsz na Cannelloni - Ruskie ",
+        "menuNamber": 4,
+        "ingridients": "1900 ziemniak, 1600 twaróg, 800 cebula, 200 dziugas, sól, pieprz " 
+
+    },
+    {
+        "id": 10,
+        "dishName": "Dressing do tatara ",
+        "menuNamber": 3,
+        "ingridients": "redukcja sosu sojowego z 500 do 190g (60%), 150 dijon, 100 musztarda francuska, 80 perins, 17 tabasco, 2 pęczki lubczyka"
+    },
+    {
+        "id": 11,
+        "dishName": "Zalewa peklująca ",
+        "menuNamber": 1,
+        "ingridients": "2.5 l wody, 150g soli peklującej, 50g brązowego cukru, 8 ziaren jałowca, 8 ziaren czarnego pieprzu, 2 liście laurowe, 10 ziaren kolendry"
+    },
+    {
+        "id": 12,
+        "dishName": "Ketchup z wędzonej śliwki ",
+        "menuNamber": 3,
+        "ingridients": "150g śliwki wędzonej, 50g sosu sojowego, 125g wina ryżowego, 100g karmelizowanego czosnku, 20g miodu gryczanego, 5g pieprzu, 10g octu jabłkowego"
+    },
+    {
+        "id": 13,
+        "dishName": "Żel z czarnego bzu ",
+        "menuNamber": 3,
+        "ingridients": "500ml sprite, 200ml syropu z czarnego bzu, Agar 7g"
+    },
+    {
+        "id": 14,
+        "dishName": "Sos do serc",
+        "menuNamber": 3,
+        "ingridients": "75g szalotka, 10 czosnek, 10 tymianek, śmietanka 34% 1000, 35 dijon, 35 musztarda francuska, trufla 15, demi glace 100, masło 75"
+    },
+    {
+        "id": 15,
+        "dishName": "Pesto szczypiorkowe",
+        "menuNamber": 3,
+        "ingridients": "800 szczypior, 800 szpinak, 900 dziugas, 800 słonecznik, 40 czosnek, 40 rozmaryn, 80 sól, 240 ocet jabłko, 1600 olej"
+    },
+    {
+        "id": 16,
+        "dishName": "Pikla",
+        "menuNamber": 3,
+        "ingridients": "600 ocet ryżowy, 600 cukier, 300 woda, 50 czosnek, 50 sos sojowy, 50 chilli, sól"
+    },
+    {
+        "id": 17,
+        "dishName": "Consome pomidorowe",
+        "menuNamber": 2,
+        "ingridients": "10 kg pomidor, 2 kg cebula, 100g tymianek, 1kg seler, 300g seler nać, 2 pęczki lubczyka, 500 pieczarki, 150 g czosnek"
+    },
+    {
+        "id": 18,
+        "dishName": "Sos XO",
+        "menuNamber": 3,
+        "ingridients": ["150g gochugaru", 
+        "900ml olej", 
+        "1Sp ziele angielskie",
+         "2 cebule białe", 
+         "1Sp kolendry", 
+         "2 gwiazdki anyżu", 
+         "1Sp pieprzu ziarno",
+          "5 ząbków czosnku całego",
+           "10 ząbków czosnku siekanego",
+            "10x dymka", 
+            "100g suszonej wątrubki", 
+            "50g bottarga", 
+            "2Sp ocet czarny", 
+            "2Sp ocet ryżowy"]
+    }
+    ,{
+        "id": 19,
+        "dishName": "Winegret musztardowy z miodem",
+        "menuNamber": 1,
+        "ingridients": "skóra z 5 cytryn, 50 dijon, 300 francuska, 30 sól, 1000 olej, 1000 olej rzepak, 500 miód"
+    },
+    {
+        "id": 20,
+        "dishName": "Ciasto podpłomyk",
+        "menuNamber": 3,
+        "ingridients": "50g czarnuszki, 900g mąka, 10g cukru, 10g sól, 450 woda, 50 mleko, 50 olej rzepak, 10g drożdże suszone "
+    },
+    {
+        "id": 21,
+        "dishName": "Chłodnik z buraka",
+        "menuNamber": 1,
+        "ingridients": "2000 odsączony jogurt, 600g sok z buraka, 150g kefir, 80g octu z białego wina, 40g brązowa gorczyca, sól"
+    },
+    {
+        "id": 22,
+        "dishName": "Maślanka z kiszonymi szparafami",
+        "menuNamber": 2,
+        "ingridients": "500g maszlanki, 300g szparagi, 15g sól"
+    },
+    {
+        "id": 23,
+        "dishName": "Dressing z czarnego czosnku",
+        "menuNamber": 2,
+        "ingridients": "300g olej rzepak, 200 olej, 60 czarny czosnek, 30 glazura chlebowa, 20 dijon, 10 sol, 100 magi, 10 ocet z czerwonego wina"
+    },
+    {
+        "id": 24,
+        "dishName": "Glazura chlebowa",
+        "menuNamber": 1,
+        "ingridients": "6000 kwas chlebowy, 3000 ocet spiritusowy, 1000 woda, 1500 cukier"
+    },
+    {
+        "id": 25,
+        "dishName": "Maggi",
+        "menuNamber": 1,
+        "ingridients": "2000 cebula, 1000 pomidory, 1szt czosnek | 800g baza 50g karmel, 25 marmite, 10g sos sojowy, 10g sos worczester, 30g grzyby suszone, 2szt lubczyk "
+    },
+    {
+        "id": 26,
+        "dishName": "Zalewa Mizeria",
+        "menuNamber": 1,
+        "ingridients": "150g sok z ogórka, 60 maślanka, 5 szczypior, 5 koper, 3g, ocet białe wino, sól, pieprz "
+    },
+    {
+        "id": 27,
+        "dishName": "Czips ziemniak",
+        "menuNamber": 1,
+        "ingridients": "1500g ziemniak, 7g sol, 7g ocet, 225 dijon, 150 francuska",
+        "metod": "Zblendować wszystko w termomixie, wmieszać musztyardę francuską, rozsmakować mase na papier, wysuszyć w degidratorze, wysmać]życ we frycie przy 140 stopniach"
+    },
+    {
+        "id": 28,
+        "dishName": "Demi Wege",
+        "menuNamber": 1,
+        "ingridients": "3kg cebula, 2kg seler, 1kg marchewki, 1kg pietruszki, 0.5kg czosnku, 1 pęczek lubczyk,, 100g grzyby suszone, puszka pelatti, pieprz, ziele angielskie, liść laurowy",
+        "metod": "Spalić warzywa, gotować min 6 godzin, scedzić wywar, redukować do odbrej konsystencji, przecedzić przez włókninę"
+    },
+    {
+        "id": 29,
+        "dishName": "Kluski leniwe",
+        "menuNamber": 1,
+        "ingridients": "1 kg ziemniaków, 250 twaróg, 250 twaróg premium, 2 jajka, 30 sól, 200+ skrobia"
+    },
+    {
+        "id": 30,
+        "dishName": "Tatarski",
+        "menuNamber": 1,
+        "ingridients": "100 cebula, 200 małosolny, 50 seler, 1Sp ocet białe wino, 25 dijon, 20 olej rzepak, 10 chrzan, koper, szczypiorek"
+    },
+    {
+        "id": 31,
+        "dishName": "Baza na krem",
+        "menuNamber": 1,
+        "ingridients": "200 masło, 1000 śmietana, 200 cukier, 150 skronia, 250 żółtka",
+        "metod": "spalić masło, dodać śmietanę i zagotować, w misce dokładnie wymieszać żółtko, cukier i skrobie, porcjami wlewać goącą śmietanę, zagotować w garze cała masę, połaczyć w termomixie"
+    },
+    {
+        "id": 32,
+        "dishName": "Biszkopt rzepakowy",
+        "menuNamber": 1,
+        "ingridients": "6 jajek, 300 cukier, 225 olej rzepak, 240 mleko, 280 mąka, 12 proszek do pieczenia",
+        "metod": "Ubić jajka z cukrem, na średnim biegu wlewać olej i mleko, porcjami wsypywać mąkę z proszkiem"
+    },
+    {
+        "id": 33,
+        "dishName": "Marynata Schab",
+        "menuNamber": 1,
+        "ingridients": "mleko 1000,sos soja 100, 50 czosnek, 100 cebula, rozmaryn, tymianek, pieprz.",
+        "metod": "Zmieszać wszystko | porcjowane schaby posolić i popieprzyć z każdej strony | włożyć schaby do zalewy na 24 godziny"
+    },
+    {
+        "id": 34,
+        "dishName": "Sernik",
+        "menuNamber": 3,
+        "ingridients": [
+            "Twaróg 1000, ", "Mascarpone 500, ", "Philadelphia 500, ", "cukier 200, ", "sól 5, ", "jajka 8 szt"
+        ]
+    },
+    {
+        "id": 35,
+        "dishName": "Majo z wędzonych ryb",
+        "menuNamber": 3,
+        "ingridients": "900 olej z wędzonych ryb, 120 zoltko, 50 musztarda Dijon, 10 ocet winny bialy, pieprz, sol"
+    
+    },
+    {
+        "id": 36,
+        "dishName": "Czips ze słodu",
+        "menuNamber": 5,
+        "ingridients": "1000 mleko, 80 cukier, 190 skrobia, 30 słód, 150 laskowy, 30 czarnuszka"
+        
+    },
+    {
+        "id": 37,
+        "dishName": "Tarta grzybowa",
+        "menuNamber": "degustacja",
+        "ingridients": "800 masło, 800 mąka, 120 puder grzyb, 160 balsamico, 40 cukier trzcinowy, 40 sól, 24 słód"
+    },
+    {
+        "id": 38,
+        "dishName": "Chutney śliwka",
+        "menuNamber": 5,
+        "ingridients": "4000 śliwka, 1000 suszona śliwka, 1000 sok z jabłka, 1000 czerwone wino, 500 sprite, 500 grenadyna, 700 ocet jeżyna"
+        
+    },
+    {
+        "id": 39,
+        "dishName": "Krem topinambur",
+        "menuNamber": 5,
+        "ingridients": "650 topinambur, 50 cukier trzcinowy, 1000 śmietanka 34%, 30 słod ciemny, 30 miód, 200 biała czekolada, 10g żelatyna"
+        
+    },
+    {
+        "id": 40,
+        "dishName": "Chrupiące polskie ziarna",
+        "menuNamber": 3,
+        "ingridients": "1000 panko, 500 mak, 200 czarnuszka, 600 cebulka, 150 czosnek, 50 sól "
+        
+    }
+    
+]
+
+

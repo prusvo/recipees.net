@@ -1,0 +1,28 @@
+.page-title {
+    text-align: center;
+    margin-top: 20px;
+    color: #000000cc;
+}
+.Menu {
+    padding: 0 10px
+}
+.menu-box {
+    text-align: left;
+}
+.dish-name {
+    margin-top: 10px;
+}
+.cursor {
+    list-style: none;
+    cursor:pointer;
+}
+details > summary {
+    list-style-type:disc;
+}
+.border {
+    content: "";
+
+    z-index: 2;
+    border-bottom: 2px solid black;
+    width: 100%;
+}

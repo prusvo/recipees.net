@@ -1,0 +1,110 @@
+.login-page {
+    width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: 30%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+.login-box {
+    margin: 0 5%;
+    width: 350px;
+    height: auto;
+    background-color: #9eb3848a;
+    border-radius: 18px;
+    border: 2px solid var(--bg-color);
+    backdrop-filter: blur(2px);
+
+}
+.box {
+    padding: 10%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.login_box-title {
+    font-size: 40px;
+    font-weight: 600;
+    color: var(--light-color);
+}
+.box input {
+    height: 40px;
+    border-radius: 18px;
+    background-color: var(--green-color);
+    border: 1px solid var(--bg-color);
+    margin-top: 20px;
+    outline: none;
+    color: var(--darck-color);
+    padding: 0 20px;
+    font-family: 'Poppins', sans-serif;
+}
+::placeholder {
+    color: var(--darck-color);
+    
+}
+.box input:nth-child(1) {
+    margin-top: 0;
+}
+.box input:nth-child(5) {
+    background-color: var(--light-color);
+}
+.remember {
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+}
+.checkbox-title {
+    margin-left: 10px;
+    padding: 0;
+    color: var(--light-color);
+    font-weight: 600;
+
+}
+.login-button {
+    background-color: var(--light-color);
+    color: var(--darck-color);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: 'Poppins', sans-serif;
+
+    height: 40px;
+    border-radius: 18px;
+    border: none;
+    transition: all .2s ease;
+}
+.login-button:hover {
+    background-color: var(--darck-color);
+    color: var(--light-color);
+}
+
+@media (max-width: 380px) {
+    .login-box {
+        margin: 0 5%;
+        max-width: 350px;
+        height: auto;
+        background-color: #9eb3848a;
+        border-radius: 18px;
+        border: 2px solid var(--bg-color);
+        backdrop-filter: blur(2px);
+    
+    }
+    
+}
+
+@media (max-width: 922px) {
+    .login-box {
+        margin: 0 5%;
+        max-width: 350px;
+        height: auto;
+        background-color: #9eb3848a;
+        border-radius: 18px;
+        border: 2px solid var(--bg-color);
+        backdrop-filter: blur(2px);
+    
+    }
+    
+}

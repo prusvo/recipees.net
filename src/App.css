@@ -1,0 +1,158 @@
+/* Fonts */
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@600;800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap');
+
+:root {
+  --darck-color: #435334;
+  --box-shadow: inset 0px 3px 7px 0px rgba(67, 83, 52, 0.34);
+  --bg-color: #cedebd;
+  --light-color: #faf1e4;
+  --button-color: #9eb384;
+  --button-color-hover: #668341;
+  --green-color: #9eb384;
+  --header-bg: #adcc91;
+
+
+  /* dark mode */
+  
+}
+
+/* Main */
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-image: none;
+
+  background-color: var(--bg-color);
+
+  background-size: cover;
+  background-position-x: center;
+  font-family: 'Poppins', sans-serif;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.container {
+    max-width: 950px;
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+/* Search-form */
+.Search {
+  display: block;
+  max-width: 550px;
+  margin-left: auto;
+  margin-right: auto;
+  
+  
+  
+ 
+
+}
+.search-form {
+  margin: 30px 5%;
+  padding: 30px;
+  max-width: 550px;
+  text-align: center;
+  
+  background-image: url(/src/img/BG.jpg);
+  background-size:contain;
+  background-repeat: repeat;
+  
+  width: auto;
+  height: 100%;
+  border-radius: 18px;
+
+  font-size: 25px;
+  font-weight: 600;
+  box-shadow: 0 0 8px var(--darck-color);
+  color: var(--light-color);
+
+}
+.search-input {
+  margin: 15px 0;
+  padding: 0 20px;
+  border: 1.5px solid var(--light-color) ;
+  width: 270px;
+  height: 38px;
+  border-radius: 18px;
+  text-shadow: var(--box-shadow);
+  outline: none;
+
+  font-size: 20px;
+  color: var(--darck-color);
+  font-family: 'Poppins', sans-serif;
+
+  background-color: var(--bg-color);
+
+}
+
+.search-botton {
+  margin-top: 20px;
+
+  background: var(--button-color);
+  border: 1.5px solid var(--light-color) ;
+  width: 270px;
+  height: 38px;
+  border-radius: 18px;
+
+  font-size: 18px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  text-transform: uppercase;
+  color: var(--light-color);
+
+  cursor: pointer;
+  opacity: 1;
+  transition: background .1s linear;
+}
+.search-botton:hover {
+  background: var(--button-color-hover);
+}
+
+/* Menu */
+
+.menu {  
+  width: auto;
+  height: auto;
+  
+  font-family: 'Poppins', sans-serif;
+}
+
+.recipe-box {
+  margin: 25px 5%;
+  padding: 5%;
+  height: auto;
+
+  background:  var(--green-color);
+  border-radius: 18px;
+  border: 1px solid var(--darck-color);
+
+  
+  box-shadow: inset  2px 0 5px #435334 ;
+  box-shadow: 0 0 5px var(--darck-color);
+  text-align: left;
+  color: var(--darck-color);
+}
+.recipe-box:first-child {
+  margin-top: 0;
+}
+.box-title {
+  font-size: 13px;
+}
+.recipe {
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+}
+.metod {
+  font-weight: 600;
+  font-family: 'Poppins', sans-serif;
+}

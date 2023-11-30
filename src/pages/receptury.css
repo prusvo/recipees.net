@@ -1,0 +1,20 @@
+.receptury {
+    margin: 15px 25px;
+    padding: 10px;
+    border-radius: 18px;
+    border: 2px solid var(--darck-color);
+    background-color: var(--green-color);
+    width: 400px;
+}
+
+.dishName {
+    font-size: 20px;
+    padding-right: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.ing {
+    font-size: 15px;
+}
